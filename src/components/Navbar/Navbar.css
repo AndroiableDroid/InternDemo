@@ -1,13 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
-.navbar-container {
-    display: flex;
-    justify-content: center;
-}
 
+.navbar {
+    justify-content: center !important;
+}
 .navbar-items {
-    display: flex;
     justify-content: space-between;
-    width: 72%;
+    width: 80%;
     align-items: center;
     height: max-content;
 }
@@ -15,9 +13,34 @@
 .navbar-item {
     font-size: 12px;
     font-weight: light;
+    padding-inline: 2px !important;
 }
-.navbar-logo {
-    display: flex;
-    align-items: center;
-    /* font-family: 'Poppins', sans-serif; */
+
+.sticky {
+    backdrop-filter: blur(15px) !important;
+    position: sticky !important;
+    top: 0;
+    width: 100% !important;
+}
+
+.navbar-sec-section2 {
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    width: 100% !important;
+    padding-inline: 0 !important;
+}
+
+.navbar-sec-section2 > * {
+    margin: 0 !important;
+    margin-left: 20px !important;
+}
+
+.navbar-sec-buy-btn {
+    border-radius: 980px !important;
+    font-size: 12px !important;
+    font-weight: small !important;
+    border-width: 1px !important;
+    height: 23px !important;
+    line-height: 0 !important;
 }
