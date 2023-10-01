@@ -1,11 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 
 .navbar {
+    z-index: 1000 !important;
     justify-content: center !important;
 }
 .navbar-items {
     justify-content: space-between;
-    width: 80%;
+    width: 50%;
     align-items: center;
     height: max-content;
 }
