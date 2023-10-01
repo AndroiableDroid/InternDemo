@@ -1,6 +1,6 @@
 @keyframes center-scale {
     from {
-        transform: scale(1.25);
+        transform: scale(1.5);
     }
     to {
         transform: scale(1);
@@ -9,7 +9,7 @@
 
 .center-watch {
     z-index: 0;
-    animation: center-scale .5s cubic-bezier(0.165, 0.84, 0.44, 1)  !important;
+    animation: center-scale 1s cubic-bezier(0.165, 0.84, 0.44, 1)  !important;
 }
 
 @keyframes left-view {
@@ -22,7 +22,7 @@
 }
 
 .left-watch {
-    animation: left-view .5s cubic-bezier(0.165, 0.84, 0.44, 1) !important;
+    animation: left-view 1s cubic-bezier(0.165, 0.84, 0.44, 1) !important;
 }
 
 @keyframes right-view {
@@ -35,5 +35,5 @@
 }
 
 .right-watch {
-    animation: right-view .5s cubic-bezier(0.165, 0.84, 0.44, 1)    !important;
+    animation: right-view 1s cubic-bezier(0.165, 0.84, 0.44, 1)    !important;
 }
