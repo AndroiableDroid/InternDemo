@@ -1,0 +1,39 @@
+@keyframes center-scale {
+    from {
+        transform: scale(1.5);
+    }
+    to {
+        transform: scale(1);
+    }
+}
+
+.center-watch {
+    z-index: 0;
+    animation: center-scale 1s cubic-bezier(0.165, 0.84, 0.44, 1) !important;
+}
+
+@keyframes left-view {
+    from {
+        transform: translateX(-100%);
+    }
+    to {
+        transform: translateX(0%);
+    }
+}
+
+.left-watch {
+    animation: left-view 1s cubic-bezier(0.165, 0.84, 0.44, 1) !important;
+}
+
+@keyframes right-view {
+    from {
+        transform: translateX(100%);
+    }
+    to {
+        transform: translateX(0%);
+    }
+}
+
+.right-watch {
+    animation: right-view 1s cubic-bezier(0.165, 0.84, 0.44, 1)    !important;
+}
