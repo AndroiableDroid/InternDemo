@@ -1,0 +1,46 @@
+[data-aos="animate-watch-light"] {
+    visibility: visible;
+    opacity: 1;
+    transition-property: opacity, visibility;
+}
+
+[data-aos="animate-watch-light"].aos-animate {
+    visibility: hidden;
+    opacity: 0;
+}
+
+[data-aos="animate-watch-dark"] {
+    visibility: hidden;
+    opacity: 0;
+    transition-property: opacity, visibility;
+}
+
+[data-aos="animate-watch-dark"].aos-animate {
+    visibility: visible;
+    opacity: 1;
+}
+
+[data-aos="bg-black"] {
+    background: #F7F7F7;
+    transition-property: background;
+}
+
+[data-aos="bg-black"].aos-animate {
+    background: #000;
+}
+
+[data-aos="text-color"] {
+    color:#000;
+    transition-property: color;
+}
+
+[data-aos="text-color"].aos-animate {
+    color: #FF0000;
+}
+
+[data-aos="text-color2"] {
+    color: #86868B;
+}
+[data-aos="text-color2"].aos-animate {
+    color: #86868B;
+}
