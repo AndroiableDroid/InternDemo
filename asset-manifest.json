@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/InternDemo/static/css/main.d16deeb9.css",
-    "main.js": "/InternDemo/static/js/main.b7826807.js",
+    "main.css": "/InternDemo/static/css/main.976d11b4.css",
+    "main.js": "/InternDemo/static/js/main.da63dee1.js",
     "static/js/787.7d983c61.chunk.js": "/InternDemo/static/js/787.7d983c61.chunk.js",
+    "static/media/flat-watch.jpg": "/InternDemo/static/media/flat-watch.c9be785888410b887e39.jpg",
+    "static/media/fifth-section-watch-light.jpg": "/InternDemo/static/media/fifth-section-watch-light.8962d63c27ba4e9aafa2.jpg",
+    "static/media/fifth-section-watch-dark.jpg": "/InternDemo/static/media/fifth-section-watch-dark.568890db184b121b1b17.jpg",
+    "static/media/section-four-bg.jpg": "/InternDemo/static/media/section-four-bg.8bb0fcf4703052ee4c7e.jpg",
     "static/media/right-view.jpg": "/InternDemo/static/media/right-view.17ef4651d582283d0a92.jpg",
     "static/media/left-view.jpg": "/InternDemo/static/media/left-view.5b67c5088189f20f18e0.jpg",
-    "static/media/center-view.jpg": "/InternDemo/static/media/center-view.568a30b35199fef4b452.jpg",
-    "static/media/center-frame.jpg": "/InternDemo/static/media/center-frame.c1c20eb377bf1ffb59d9.jpg",
+    "static/media/center-view.jpg": "/InternDemo/static/media/center-view.1bcd6e4c0018f45c4497.jpg",
+    "static/media/center-frame.jpg": "/InternDemo/static/media/center-frame.7e2f9217e8e614bc7c9a.jpg",
     "static/media/apple-logo.svg": "/InternDemo/static/media/apple-logo.6b963bef44506f59c2a90b804a6f0159.svg",
     "index.html": "/InternDemo/index.html",
     "static/media/store-icon.svg": "/InternDemo/static/media/store-icon.d378307ef7806ebd5e5d901912dafb19.svg",
     "static/media/search-icon.svg": "/InternDemo/static/media/search-icon.a6a844c4194efb4ffa3bddb2942cdcac.svg",
-    "main.d16deeb9.css.map": "/InternDemo/static/css/main.d16deeb9.css.map",
-    "main.b7826807.js.map": "/InternDemo/static/js/main.b7826807.js.map",
+    "main.976d11b4.css.map": "/InternDemo/static/css/main.976d11b4.css.map",
+    "main.da63dee1.js.map": "/InternDemo/static/js/main.da63dee1.js.map",
     "787.7d983c61.chunk.js.map": "/InternDemo/static/js/787.7d983c61.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d16deeb9.css",
-    "static/js/main.b7826807.js"
+    "static/css/main.976d11b4.css",
+    "static/js/main.da63dee1.js"
   ]
 }
