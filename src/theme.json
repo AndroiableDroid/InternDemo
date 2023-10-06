@@ -13,9 +13,9 @@
         }
     },
     {
-        "name": "Category",
-        "data": {
-            "className": ""
-        }
+            "name": "Category",
+            "data": {
+                "className": ""
+            }
     }
 ]
